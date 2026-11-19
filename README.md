@@ -1,21 +1,7 @@
-# TaskFlow App
+## Quản lý dự án bằng GitHub Projects
 
-Mini Project: Quản lý công việc cá nhân bằng GitHub Projects.
+Dự án sử dụng GitHub Projects với bảng Kanban gồm các trạng thái Backlog, Ready, In progress, In review và Done.
 
-## Mục tiêu
-- Quản lý danh sách công việc.
-- Phân chia nhiệm vụ và theo dõi tiến độ.
-- Sử dụng GitHub Issues, Projects và Kanban Board.
-- Tổ chức công việc theo Sprint và mức độ ưu tiên.
+Các nhiệm vụ được quản lý bằng GitHub Issues, hỗ trợ phân công người thực hiện, đánh dấu mức độ ưu tiên, ước lượng công việc và chia nhỏ nhiệm vụ thành Sub-issues.
 
-## Chức năng dự kiến
-- Giao diện đăng nhập.
-- CRUD công việc.
-- Dashboard quản lý.
-- Thông báo email.
-
-## Quy trình quản lý
-Todo → In Progress → Done
-
-## Công cụ
-GitHub Repository, Issues, Projects, Board, Table, Roadmap.
+Quy trình quản lý công việc giúp theo dõi tiến độ, cập nhật trạng thái và tổ chức các nhiệm vụ theo từng giai đoạn.
